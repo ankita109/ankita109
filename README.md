@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋,</h1>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%&size=30&center=true&width=1000&height=150&lines=Hi+there+%F0%9F%91%8B;I+am+Ankita+Kumari+;I+am+a+Software+Engineer+;I+am+a+MERN+Full+Stack+Web+Developer;+)](https://git.io/typing-svg)
 
 # 💫 About Me:
